@@ -1,5 +1,5 @@
-   {
-     "buildCommand": "echo prebuilt",
-     "outputDirectory": "dist",
-     "installCommand": ""
-   }
+{
+  "buildCommand": "python3 -m zipfile -e phaneendra-portfolio-site.zip out",
+  "outputDirectory": "out/phaneendra-portfolio/dist",
+  "installCommand": ""
+}
